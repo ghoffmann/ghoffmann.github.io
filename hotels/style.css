@@ -64,8 +64,8 @@ p {
 
 .book {
   margin-top: 30px;
-  width: 60%;
   max-width: 400px;
+  align: center;
 }
 
 a {
